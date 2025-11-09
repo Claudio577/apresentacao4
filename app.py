@@ -131,13 +131,13 @@ st.markdown("""
 > “Uma casa verde com uma planta crescendo. O ambiente está calmo e equilibrado.”
 
 **Resultado da previsão:**  
-🧠 *Baixo* — situação tranquila, estável e controlada.  
+*Baixo* — situação tranquila, estável e controlada.  
 
 Agora, se o sistema receber uma imagem de **fogo ou caos** e a frase  
 > “O sistema apresentou falhas críticas e o alerta vermelho foi acionado.”  
 
 O resultado esperado será:  
-🔥 **Alto** — situação crítica e de risco elevado.
+**Alto** — situação crítica e de risco elevado.
 """)
 
 # ============================================================
